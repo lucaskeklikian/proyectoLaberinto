@@ -1,0 +1,8 @@
+Para ejecutar la resolucion del mapa, en consola:
+
+
+lk@lk-VirtualBox:~/info1/proyecto$ make clean
+
+lk@lk-VirtualBox:~/info1/proyecto$ make all
+
+lk@lk-VirtualBox:~/info1/proyecto$ ./main.out  ./mapas/mapa10.txt 
